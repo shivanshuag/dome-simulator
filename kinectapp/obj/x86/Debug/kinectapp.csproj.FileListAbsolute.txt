@@ -47,3 +47,42 @@ C:\Users\abhinay\Documents\Visual Studio 2010\Projects\final_mouse\kinectapp\obj
 C:\Users\abhinay\Documents\Visual Studio 2010\Projects\final_mouse\kinectapp\obj\x86\Debug\kinectapp.Properties.Resources.resources
 C:\Users\abhinay\Documents\Visual Studio 2010\Projects\final_mouse\kinectapp\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\abhinay\Documents\Visual Studio 2010\Projects\final_mouse\kinectapp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\final_mouse\kinectapp\bin\Debug\Fizbin.Kinect.Gestures.dll
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.exe
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.pdb
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.csprojResolveAssemblyReference.cache
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\App.g.cs
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp_MarkupCompile.cache
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\MainWindow.baml
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.g.resources
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.Properties.Resources.resources
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\obj\x86\Debug\kinectapp.csproj.GenerateResource.Cache
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\kinectapp.exe
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\kinectapp.pdb
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\shivanshu\Documents\kinect\final_mouse\kinectapp\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Planetarium_abhinay_shivanshu.exe
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Planetarium_abhinay_shivanshu.pdb
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\kinectapp.csprojResolveAssemblyReference.cache
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\MainWindow.baml
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\App.g.cs
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\Planetarium_abhinay_shivanshu_MarkupCompile.cache
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\Planetarium_abhinay_shivanshu.g.resources
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\kinectapp.Properties.Resources.resources
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\kinectapp.csproj.GenerateResource.Cache
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\Planetarium_abhinay_shivanshu.exe
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\obj\x86\Debug\Planetarium_abhinay_shivanshu.pdb
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Fizbin.Kinect.Gestures.dll
+C:\Users\shivanshu\Documents\kinect\Planetarium\kinectapp\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
